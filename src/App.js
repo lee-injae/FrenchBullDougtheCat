@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Catdog.jpg';
 import './App.css';
 
 function App() {
@@ -10,13 +10,23 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="notavgjoe-link"
+          href="https://notavgjoe.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Not Average Joe 
         </a>
+        <a
+          className="notavgjoe-link"
+          href="https://www.youtube.com/watch?v=T6B_eKoz5Sw"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Video of us, making the previous NFT
+        </a>
+
+
       </header>
     </div>
   );
