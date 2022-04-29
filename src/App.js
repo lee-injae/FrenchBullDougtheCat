@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          FrenchBullDoug the Cat
         </p>
         <a
           className="notavgjoe-link"
@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Not Average Joe 
+          Not Average Joe NFT
         </a>
+        <br/>
         <a
           className="notavgjoe-link"
           href="https://www.youtube.com/watch?v=T6B_eKoz5Sw"
